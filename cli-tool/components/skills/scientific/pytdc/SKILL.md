@@ -77,7 +77,7 @@ Predict pharmacokinetic properties of drug molecules.
 ```python
 from tdc.single_pred import ADME
 data = ADME(name='Caco2_Wang')  # Intestinal permeability
-# Other datasets: HIA_Hou, Bioavailability_Ma, Lipophilicity_AstraZeneca, etc.
+# Other datasets: HIA_Hou, Bioavailability_Ma, Lipophilicity_PublicPharma, etc.
 ```
 
 **Common ADME datasets:**

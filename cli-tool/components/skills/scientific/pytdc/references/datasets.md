@@ -8,7 +8,7 @@ This document provides a comprehensive catalog of all available datasets in the 
 
 **Absorption:**
 - `Caco2_Wang` - Caco-2 cell permeability (906 compounds)
-- `Caco2_AstraZeneca` - Caco-2 permeability from AstraZeneca (700 compounds)
+- `Caco2_PublicPharma` - Caco-2 permeability from a public pharma source (700 compounds)
 - `HIA_Hou` - Human intestinal absorption (578 compounds)
 - `Pgp_Broccatelli` - P-glycoprotein inhibition (1,212 compounds)
 - `Bioavailability_Ma` - Oral bioavailability (640 compounds)
@@ -37,7 +37,7 @@ This document provides a comprehensive catalog of all available datasets in the 
 
 **Solubility & Lipophilicity:**
 - `Solubility_AqSolDB` - Aqueous solubility (9,982 compounds)
-- `Lipophilicity_AstraZeneca` - Lipophilicity (logD) (4,200 compounds)
+- `Lipophilicity_PublicPharma` - Lipophilicity (logD) (4,200 compounds)
 - `HydrationFreeEnergy_FreeSolv` - Hydration free energy (642 compounds)
 
 ### Toxicity
