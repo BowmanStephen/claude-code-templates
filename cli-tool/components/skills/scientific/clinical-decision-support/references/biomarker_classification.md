@@ -644,7 +644,7 @@ Tier 1: FDA-Approved Targeted Therapy Available
 EGFR Exon 19 Deletion (p.E746_A750del)
   Variant Allele Frequency: 42%
   Clinical Significance: Sensitizing mutation
-  FDA-Approved Therapy: Osimertinib (Tagrisso) 80 mg daily
+  FDA-Approved Therapy: EGFR-targeted TKI, standard oral dosing
   Evidence: FLAURA trial - median PFS 18.9 vs 10.2 months (HR 0.46, p<0.001)
   Guideline: NCCN Category 1 preferred first-line
   Recommendation: Strong recommendation for EGFR TKI therapy (GRADE 1A)
@@ -716,4 +716,3 @@ CLIA #: [Number]  |  CAP #: [Number]
 - Participate in external quality assurance schemes
 - Blinded sample exchange with reference laboratories
 - Document corrective actions for failures
-
